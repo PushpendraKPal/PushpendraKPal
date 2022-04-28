@@ -10,9 +10,9 @@ I look forward to working on challenging projects that are user-friendly and tha
 
 #### Find me on web
 
-######Sharing updates on [linkedin](https://www.linkedin.com/in/kpushpendra0611/)
-######Follow me on [twitter](https://twitter.com/KPal_Pushpendra)
-######Contact me at kumarpushp1992@gmail.com
+###### Sharing updates on [linkedin](https://www.linkedin.com/in/kpushpendra0611/)
+###### Follow me on [twitter](https://twitter.com/KPal_Pushpendra)
+###### Contact me at kumarpushp1992@gmail.com
 <!---
 PushpendraKPal/PushpendraKPal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
