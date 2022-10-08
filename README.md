@@ -2,11 +2,11 @@
 
 # Hi, I'm Pushpendra Kumar
 
-I am a Full-stack web development student from Masai School who is passionate about building dynamic websites and web applications.
+I am a MERN stack developer passionate about building dynamic web applications.
 
-I implemented React, Node.js, Express, Mongodb, and so on in my projects. Apart from technical skills, I also learned how to manage time, solve complex problems and collaborate with others. I grew as a person and professional in this time.
+I have worked on some group projects and some solo project with tech stack like React, Node.js, Express, Mongodb, and so on. Apart from technical skills, I also developed soft skills which includes time management, collaborate with others, and remote working etiquttes and ethics. while working on these projects I grew as a person and professional.
 
-I look forward to working on challenging projects that are user-friendly and that solve significant problems.
+I look forward to working on challenging projects that are user-friendly and solve significant problems.
 
 Resume Link
 
@@ -58,15 +58,12 @@ Resume Link
     <img src="https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png" alt="Portfolio"/>
 </p>
 <p>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     
 </p>
 
 ##### Contact me at kumarpushp1992@gmail.com
 
-<!---
-PushpendraKPal/PushpendraKPal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
