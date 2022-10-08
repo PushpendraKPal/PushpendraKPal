@@ -57,7 +57,7 @@ I am open to working on challenging projects that solve some significant problem
 
 <p>
 	    <a href="https://pushpendrakumar.w3spaces.com" target="_blank">
-	    <img src="https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png" alt="Portfolio"/>
+	    <img src="[https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png](https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white)" alt="Portfolio"/>
     </a>
 </p>
 <p>
