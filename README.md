@@ -56,10 +56,11 @@ I am open to working on challenging projects that solve some significant problem
 ## Find me on web
 
 <p>
-	    <a href="https://pushpendrakumar.w3spaces.com" target="_blank">
-	    <img src="[https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png](https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white)" alt="Portfolio"/>
+	<a href="https://pushpendrakumar.w3spaces.com" target="_blank">
+	<img src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
     </a>
 </p>
+
 <p>
     <a href="https://www.linkedin.com/in/pushpendrakpal/" target="-blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
     </a>
