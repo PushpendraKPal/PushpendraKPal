@@ -1,9 +1,9 @@
+# Hi, I'm
 
 ![banner](https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/github%20banner.jpg)
 
-# Hi, I'm Pushpendra Kumar
 
-I am a MERN stack developer, who lived in <u>Agra , India</u>, and is passionate about building dynamic web applications.
+I am a MERN stack developer, who lived in <u>Agra, India</u>, and is passionate about building dynamic web applications. I have worked through 1000+ hours coding and following the Bootcamp structure for learning web-development.
 
 I have worked on some group projects and some solo projects with tech stacks like React, Node.js, Express, MongoDB, Vanilla Javascript, HTML5, CSS3, and so on. Apart from technical skills, I also developed soft skills which include time management, collaboration with others, and remote working etiquette and ethics. while working on these projects I grew as a person and professional.
 
