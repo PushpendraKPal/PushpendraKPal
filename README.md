@@ -11,7 +11,7 @@ I look forward to working on challenging projects that are user-friendly and tha
 Resume Link
 
 
-## Skills & Frameworks:
+## Tech Skills & Frameworks:
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -32,7 +32,12 @@ Resume Link
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   </p>
 
-
+## Soft Skills:
+<input type="checkbox" checked> Creativity</input>
+<input type="checkbox" checked> Team Collaboration</input>
+<input type="checkbox" checked> Problem solving</input>
+<input type="checkbox" checked> Remote work etiquettes</input>
+    
 ## Find me on web
 
 ###### [![portfolio](https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png)](https://pushpendrakumar.w3spaces.com/)
