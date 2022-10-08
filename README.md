@@ -1,14 +1,15 @@
+
 ![banner](https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/github%20banner.jpg)
 
 # Hi, I'm Pushpendra Kumar
 
-I am a MERN stack developer, who lived in Agra, India, and is passionate about building dynamic web applications.
+I am a MERN stack developer, who lived in <u>Agra , India</u>, and is passionate about building dynamic web applications.
 
 I have worked on some group projects and some solo projects with tech stacks like React, Node.js, Express, MongoDB, Vanilla Javascript, HTML5, CSS3, and so on. Apart from technical skills, I also developed soft skills which include time management, collaboration with others, and remote working etiquette and ethics. while working on these projects I grew as a person and professional.
 
 I am open to working on challenging projects that solve some significant problems and bring out the best in me.
 
-<a href="https://pushpendrakumar.w3spaces.com" target="blank" border="1px solid grey">Resume</a>
+<a href="https://drive.google.com/file/d/1RWJHaIUZZloLpo2R3hIqwnAEJC9sRn-K/view?usp=sharing" target="_blank" border="1px solid grey">Resume</a>
 
 
 ## Tech Skills & Frameworks:
@@ -55,13 +56,21 @@ I am open to working on challenging projects that solve some significant problem
 ## Find me on web
 
 <p>
-    <img src="https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png" alt="Portfolio"/>
+	    <a href="https://pushpendrakumar.w3spaces.com" target="_blank">
+	    <img src="https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png" alt="Portfolio"/>
+    </a>
 </p>
 <p>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev"/>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pushpendrakpal/" target="-blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://dev.to/pushpendrakpal" target= "_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/pushpendra_kpal" target="-blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    
+    <a/>
 </p>
 
 ##### Contact me at kumarpushp1992@gmail.com
