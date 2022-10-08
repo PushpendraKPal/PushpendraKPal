@@ -2,13 +2,13 @@
 
 # Hi, I'm Pushpendra Kumar
 
-I am a MERN stack developer passionate about building dynamic web applications.
+I am a MERN stack developer, who lived in Agra, India, and is passionate about building dynamic web applications.
 
-I have worked on some group projects and some solo project with tech stack like React, Node.js, Express, Mongodb, and so on. Apart from technical skills, I also developed soft skills which includes time management, collaborate with others, and remote working etiquttes and ethics. while working on these projects I grew as a person and professional.
+I have worked on some group projects and some solo projects with tech stacks like React, Node.js, Express, MongoDB, Vanilla Javascript, HTML5, CSS3, and so on. Apart from technical skills, I also developed soft skills which include time management, collaboration with others, and remote working etiquette and ethics. while working on these projects I grew as a person and professional.
 
-I look forward to working on challenging projects that are user-friendly and solve significant problems.
+I am open to working on challenging projects that solve some significant problems and bring out the best in me.
 
-Resume Link
+<a href="https://pushpendrakumar.w3spaces.com" target="blank" border="1px solid grey">Resume</a>
 
 
 ## Tech Skills & Frameworks:
