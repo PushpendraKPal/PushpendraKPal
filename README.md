@@ -39,6 +39,17 @@ Resume Link
 - [x] Problem solving
 - [x] Remote work etiquettes
     
+    
+## GitHub Stats:
+
+<div align="left">
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushpendraKPal&theme=outrun"  height="190px" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PushpendraKPal&count_private=true&theme=outrun&show_icons=true"  height="190px" />
+</a>
+</div>
 ## Find me on web
 
 ###### [![portfolio](https://raw.githubusercontent.com/PushpendraKPal/PushpendraKPal/main/port.png)](https://pushpendrakumar.w3spaces.com/)
